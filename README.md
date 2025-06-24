@@ -1,0 +1,4 @@
+--> npm install -g json-server
+--> npm run server
+--> npm install
+--> npm run dev# Projeto-Front-End
