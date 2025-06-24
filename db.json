@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": "R0100",
+      "name": "AgroSys",
+      "start": "07-02-2025",
+      "team": "BPMO",
+      "task": "B2B"
+    },
+    {
+      "id": "R0101",
+      "name": "Retifica 02",
+      "start": "02-10-2024",
+      "team": "Eng. Civil",
+      "task": "Calculo da Area"
+    },
+    {
+      "id": "R0102",
+      "name": "Forno 04",
+      "start": "05-03-2024",
+      "team": "Mecanicos",
+      "task": "Montagem"
+    },
+    {
+      "id": "R0103",
+      "name": "teste",
+      "team": "1",
+      "task": "agrupar",
+      "start": "24/06/2025"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T001",
+      "title": "Reunião de planejamento",
+      "project": "AgroSys",
+      "status": "Pendente"
+    },
+    {
+      "id": "T002",
+      "title": "Desenvolver módulo financeiro",
+      "project": "Retifica 02",
+      "status": "Em andamento"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "name": "Administrador",
+      "email": "admin@empresa.com",
+      "phone": "(48) 99806-2142",
+      "department": "TI",
+      "position": "Gerente"
+    }
+  ]
+}
