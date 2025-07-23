@@ -16,4 +16,4 @@ Este é um projeto simples de frontend desenvolvido como parte do processo de ap
 --> npm install -g json-server
 --> npm run server
 --> npm install
---> npm run dev# Projeto-Front-End
+--> npm run dev
